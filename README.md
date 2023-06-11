@@ -1,6 +1,6 @@
 # Portfolio
 Check out my Portfolio which I have made by using React.
-akshat97-portfolio.netlify.app
+https://akshat97-portfolio.netlify.app/
 
 # Getting Started with Create React App
 
